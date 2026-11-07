@@ -68,7 +68,7 @@ in hackathons quite a lot.
 
 ### Achievements
 
-| | |
+| Result | Event |
 |---|---|
 | **1st place** | Space Hackathon (KosmoHackathon), Southern and North Caucasus federal districts, vegetation monitoring track · 2026 |
 | **2nd place, regional stage** | "Ideya Fix" contest with the Peremena project · 2026 |

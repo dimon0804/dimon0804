@@ -375,10 +375,10 @@
 <polygon class="f" style="animation-delay:1.03s" fill="#1f242c" points="753.6,259.1 760.8,261.2 755.6,265.2 748.4,263.1"/>
 <polygon class="f" style="animation-delay:1.07s" fill="#1f242c" points="778.2,259.5 785.4,261.6 780.2,265.6 773.0,263.5"/>
 <polygon class="f" style="animation-delay:1.05s" fill="#1f242c" points="762.6,261.8 769.8,263.9 764.6,267.9 757.4,265.8"/>
-<g class="r" style="animation-delay:1.09s"><polygon fill="#2e2a70" points="780.4,266.4 789.4,269.1 789.4,242.1 780.4,239.4"/><polygon fill="#242259" points="796.0,264.1 789.4,269.1 789.4,242.1 796.0,237.1"/><polygon fill="#3b3790" points="787.0,234.4 796.0,237.1 789.4,242.1 780.4,239.4"/></g>
+<g class="r" style="animation-delay:1.09s"><polygon fill="#2e2a70" points="780.4,266.4 789.4,269.1 789.4,237.6 780.4,234.9"/><polygon fill="#242259" points="796.0,264.1 789.4,269.1 789.4,237.6 796.0,232.6"/><polygon fill="#3b3790" points="787.0,229.9 796.0,232.6 789.4,237.6 780.4,234.9"/></g>
 <polygon class="f" style="animation-delay:1.07s" fill="#1f242c" points="771.6,264.5 778.8,266.6 773.6,270.6 766.4,268.5"/>
 <text x="32" y="48" font-size="18" font-weight="700" fill="#e6edf3">A year in commits</text>
-<g class="f" style="animation-delay:0.10s"><text x="32" y="104" font-size="26" font-weight="700" fill="#7b74f2">760</text><text x="32" y="124" font-size="12" fill="#8b949e">contributions in 12 months</text></g>
+<g class="f" style="animation-delay:0.10s"><text x="32" y="104" font-size="26" font-weight="700" fill="#7b74f2">764</text><text x="32" y="124" font-size="12" fill="#8b949e">contributions in 12 months</text></g>
 <g class="f" style="animation-delay:0.20s"><text x="32" y="166" font-size="26" font-weight="700" fill="#e6edf3">122</text><text x="32" y="186" font-size="12" fill="#8b949e">best day · 05.09.2026</text></g>
 <g class="f" style="animation-delay:0.30s"><text x="32" y="228" font-size="26" font-weight="700" fill="#e6edf3">344</text><text x="32" y="248" font-size="12" fill="#8b949e">busiest month · September 2026</text></g>
 <g class="f" style="animation-delay:0.40s"><text x="32" y="290" font-size="26" font-weight="700" fill="#e6edf3">230</text><text x="32" y="310" font-size="12" fill="#8b949e">contributions in the best week</text></g>

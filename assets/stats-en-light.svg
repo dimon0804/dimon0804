@@ -12,8 +12,8 @@
 <text x="32" y="44" font-size="18" font-weight="700" fill="#0f172a">GitHub stats</text>
 <text x="828" y="44" font-size="12" fill="#64748b" text-anchor="end">updated 07.11.2026</text>
 <g class="f" style="animation-delay:0.00s"><rect x="32.0" y="66" width="188.5" height="104" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><text x="50.0" y="110" font-size="32" font-weight="700" fill="#0f172a">67</text><text x="50.0" y="134" font-size="13" font-weight="600" fill="#0f172a">repositories</text><text x="50.0" y="154" font-size="11" fill="#64748b">30 public · 37 private</text></g>
-<g class="f" style="animation-delay:0.08s"><rect x="234.5" y="66" width="188.5" height="104" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><text x="252.5" y="110" font-size="32" font-weight="700" fill="#0f172a">760</text><text x="252.5" y="134" font-size="13" font-weight="600" fill="#0f172a">contributions this year</text><text x="252.5" y="154" font-size="11" fill="#64748b">commits, PRs, issues, reviews</text></g>
-<g class="f" style="animation-delay:0.16s"><rect x="437.0" y="66" width="188.5" height="104" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><text x="455.0" y="110" font-size="32" font-weight="700" fill="#0f172a">862</text><text x="455.0" y="134" font-size="13" font-weight="600" fill="#0f172a">commits all time</text><text x="455.0" y="154" font-size="11" fill="#64748b">since 2023</text></g>
+<g class="f" style="animation-delay:0.08s"><rect x="234.5" y="66" width="188.5" height="104" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><text x="252.5" y="110" font-size="32" font-weight="700" fill="#0f172a">764</text><text x="252.5" y="134" font-size="13" font-weight="600" fill="#0f172a">contributions this year</text><text x="252.5" y="154" font-size="11" fill="#64748b">commits, PRs, issues, reviews</text></g>
+<g class="f" style="animation-delay:0.16s"><rect x="437.0" y="66" width="188.5" height="104" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><text x="455.0" y="110" font-size="32" font-weight="700" fill="#0f172a">866</text><text x="455.0" y="134" font-size="13" font-weight="600" fill="#0f172a">commits all time</text><text x="455.0" y="154" font-size="11" fill="#64748b">since 2023</text></g>
 <g class="f" style="animation-delay:0.24s"><rect x="639.5" y="66" width="188.5" height="104" rx="10" fill="#f8fafc" stroke="#e2e8f0"/><text x="657.5" y="110" font-size="32" font-weight="700" fill="#4f46e5">34</text><text x="657.5" y="134" font-size="13" font-weight="600" fill="#0f172a">active days this year</text><text x="657.5" y="154" font-size="11" fill="#64748b">record: 122 in a single day</text></g>
 <text x="32" y="208" font-size="13" font-weight="600" fill="#0f172a">Contributions by month</text>
 <rect class="b" style="animation-delay:0.30s" x="37.0" y="357.0" width="29.2" height="3.0" rx="4" fill="#e0e7ff"/>
@@ -47,8 +47,8 @@
 <rect class="b" style="animation-delay:0.70s" x="428.7" y="326.5" width="29.2" height="33.5" rx="4" fill="#e0e7ff"/>
 <text class="f" style="animation-delay:1.20s" x="443.2" y="320.5" font-size="10" fill="#64748b" text-anchor="middle">96</text>
 <text x="443.2" y="378" font-size="11" fill="#64748b" text-anchor="middle">Oct</text>
-<rect class="b" style="animation-delay:0.74s" x="467.8" y="325.8" width="29.2" height="34.2" rx="4" fill="#e0e7ff"/>
-<text class="f" style="animation-delay:1.24s" x="482.4" y="319.8" font-size="10" fill="#64748b" text-anchor="middle">98</text>
+<rect class="b" style="animation-delay:0.74s" x="467.8" y="324.4" width="29.2" height="35.6" rx="4" fill="#e0e7ff"/>
+<text class="f" style="animation-delay:1.24s" x="482.4" y="318.4" font-size="10" fill="#64748b" text-anchor="middle">102</text>
 <text x="482.4" y="378" font-size="11" fill="#64748b" text-anchor="middle">Nov</text>
 <text x="540" y="208" font-size="13" font-weight="600" fill="#0f172a">Languages across all repositories</text>
 <clipPath id="lc"><rect x="540" y="226" width="288" height="12" rx="6"/></clipPath><g clip-path="url(#lc)">

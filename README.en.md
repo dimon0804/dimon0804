@@ -93,8 +93,8 @@ hackathons on a regular basis.
 |---|---|---|
 | [**Peremena**](https://github.com/dimon0804/peremena) | An assistant bot for school class teachers in the MAX messenger: collects parent consents without manual counting, answers routine questions from parents, keeps teaching materials at hand. [Demo](https://peremena.clv-digital.tech) | Python, FastAPI, Docker |
 | [**Fenolog**](https://github.com/dimon0804/FENOLOG) | Crop vegetation monitoring from satellite imagery: restores NDVI time series, finds periods of vegetation stress and explains the likely cause. [Live](https://fenolog.clv-digital.tech) | Python, remote sensing, ML |
-| [**Docrux**](https://github.com/dimon0804/Docrux) | Reads a photo of a student certificate or application, fills in the field card and checks it against the college regulations, citing the exact clause. [Live](https://docrux.clv-digital.tech) | FastAPI, React, Tesseract |
-| [**Vodopol**](https://github.com/dimon0804/VODOPOL) | Estimates flood damage from a single Sentinel-1 radar image and picks which extra imagery to order within a given budget. [Dashboard](https://vodopol.clv-digital.tech) | Python, remote sensing |
+| [**Docrux**](https://github.com/dimon0804/Docrux) | Reads a photo of a student certificate or application, fills in the field card and checks it against the college regulations, citing the exact clause. | FastAPI, React, Tesseract |
+| [**Vodopol**](https://github.com/dimon0804/VODOPOL) | Estimates flood damage from a single Sentinel-1 radar image and picks which extra imagery to order within a given budget. | Python, remote sensing |
 | [**HeatRoute**](https://github.com/dimon0804/HeatRoute) | Generates up to three options for connecting new buildings to an existing district heating network, with routes, pipe sizes and full cost. Leaders of Digital Transformation 2026 | Java, Spring Boot, React, MapLibre |
 | [**FinTeen**](https://github.com/dimon0804/devHACK6) | A web platform and Telegram bot that teach kids financial literacy through game-like scenarios | FastAPI, Next.js, microservices |
 

@@ -9,6 +9,7 @@ Rostov-on-Don, Russia · [Русский](README.md) · **English**
 [![Website](https://img.shields.io/badge/clv--digital.tech-4f46e5?style=flat-square)](https://clv-digital.tech)
 [![Telegram](https://img.shields.io/badge/@dimon0804-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dimon0804)
 [![Email](https://img.shields.io/badge/ceo.director@clv--digital.tech-334155?style=flat-square)](mailto:ceo.director@clv-digital.tech)
+![Profile views](https://komarev.com/ghpvc/?username=dimon0804&label=views&color=64748b&style=flat-square)
 
 </div>
 
@@ -17,14 +18,13 @@ Rostov-on-Don, Russia · [Русский](README.md) · **English**
 ### About me
 
 I build products end to end: from the first call with a client and the architecture to the
-backend, the UI, the server and its monitoring. I lead CLV-DIGITAL, a small team that makes
-web services, Telegram bots, integrations and AI automation for businesses. We also compete
-in hackathons quite a lot.
+backend, the UI, deployment and monitoring. I lead CLV-DIGITAL, a small team that makes
+web services, Telegram bots, integrations and AI automation for businesses, and we win
+hackathons on a regular basis.
 
-- Mostly **Python** (FastAPI, Django, aiogram) on the backend, **React / Vue / Next.js** on the frontend.
-- I run my own infrastructure: Docker, nginx, k3s, Prometheus and Grafana on a homelab server.
-- Third-year student at Rostov College of Communications and Informatics (RKSI), Information Systems and Programming.
-- Chair of the RKSI Student Council, coordinator of the mentorship and ambassador programs.
+- Backend mostly in **Python** (FastAPI, Django, aiogram), frontend in **React / Vue / Next.js**.
+- I design microservice systems with queues, caching and observability, not just standalone APIs.
+- I deploy and run production myself: Docker, Kubernetes, nginx, CI/CD, Prometheus and Grafana.
 
 ### Tech stack
 
@@ -55,7 +55,45 @@ in hackathons quite a lot.
   </tr>
 </table>
 
-### Projects
+### GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img src="profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Contributions by month">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+  <img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dimon0804&theme=github-dark-blue&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=dimon0804&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" width="49%" alt="Contribution streak">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img src="profile-summary-card-output/github/1-repos-per-language.svg" width="32%" alt="Repos per language">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img src="profile-summary-card-output/github/2-most-commit-language.svg" width="32%" alt="Top languages by commits">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
+  <img src="profile-summary-card-output/github/4-productive-time.svg" width="32%" alt="Productive time">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimon0804/dimon0804/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/dimon0804/dimon0804/output/snake.svg" width="100%" alt="Contribution snake">
+</picture>
+
+</div>
+
+### Open-source projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -65,6 +103,15 @@ in hackathons quite a lot.
 | [**Vodopol**](https://github.com/dimon0804/VODOPOL) | Estimates flood damage from a single Sentinel-1 radar image and picks which extra imagery to order within a given budget. [Dashboard](https://vodopol.clv-digital.tech) | Python, remote sensing |
 | [**HeatRoute**](https://github.com/dimon0804/HeatRoute) | Generates up to three options for connecting new buildings to an existing district heating network, with routes, pipe sizes and full cost. Leaders of Digital Transformation 2026 | Java, Spring Boot, React, MapLibre |
 | [**FinTeen**](https://github.com/dimon0804/devHACK6) | A web platform and Telegram bot that teach kids financial literacy through game-like scenarios | FastAPI, Next.js, microservices |
+
+### Commercial solutions
+
+Closed source. Available under license or adapted to your infrastructure; demo and terms
+on request via [Telegram](https://t.me/dimon0804).
+
+| Solution | What it does | Stack |
+|---|---|---|
+| **ChurnRadar** | Customer churn risk analyzer. Scores every customer, explains the reasons and shows how much revenue is at risk. Includes a "who to call" list, what-if scenarios and alerts. 2nd place at the Rostov hackathon at DSTU, Aéza case | Python, microservices, NATS, Kubernetes, Prometheus |
 
 ### Achievements
 

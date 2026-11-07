@@ -9,7 +9,6 @@
 [![Сайт](https://img.shields.io/badge/clv--digital.tech-4f46e5?style=flat-square)](https://clv-digital.tech)
 [![Telegram](https://img.shields.io/badge/@dimon0804-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dimon0804)
 [![Почта](https://img.shields.io/badge/ceo.director@clv--digital.tech-334155?style=flat-square)](mailto:ceo.director@clv-digital.tech)
-![Просмотры профиля](https://komarev.com/ghpvc/?username=dimon0804&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=64748b&style=flat-square)
 
 </div>
 

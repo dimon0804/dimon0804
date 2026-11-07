@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 MSK = timezone(timedelta(hours=3))
-EXCLUDE = {"Cython", "Jupyter Notebook", "Batchfile"}
+EXCLUDE = {"Cython", "Jupyter Notebook", "Batchfile", "Dockerfile", "Procfile", "Makefile"}
 TOKEN = os.environ.get("GH_TOKEN") or os.environ["GITHUB_TOKEN"]
 
 THEMES = {
@@ -35,7 +35,8 @@ TEXT = {
         year="вкладов за год", year_sub="коммиты, PR, задачи, ревью",
         commits="коммитов за всё время", commits_sub="с {since}",
         active="активных дней за год", active_sub="рекорд: {peak} за один день",
-        months="Вклады по месяцам", langs="Языки во всех репозиториях",
+        months="Вклады по месяцам", langs="Языки: в скольких репозиториях",
+        repo_count=lambda n: f"{n} " + ("репозиторий" if n % 10 == 1 and n % 100 != 11 else "репозитория" if 2 <= n % 10 <= 4 and not 12 <= n % 100 <= 14 else "репозиториев"),
         month_names=["янв", "фев", "мар", "апр", "май", "июн", "июл", "авг", "сен", "окт", "ноя", "дек"],
         recent_title="Открытые репозитории, в которые я пушил за последние 30 дней",
         private_note="и ещё {n} в закрытых репозиториях",
@@ -47,7 +48,8 @@ TEXT = {
         year="contributions this year", year_sub="commits, PRs, issues, reviews",
         commits="commits all time", commits_sub="since {since}",
         active="active days this year", active_sub="record: {peak} in a single day",
-        months="Contributions by month", langs="Languages across all repositories",
+        months="Contributions by month", langs="Languages: used in how many repos",
+        repo_count=lambda n: f"{n} repo" + ("" if n == 1 else "s"),
         month_names=["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
         recent_title="Public repositories I pushed to in the last 30 days",
         private_note="plus {n} private repositories",
@@ -134,16 +136,20 @@ def stats_svg(data, lang, theme):
         total = sum(n for d, n in days.items() if d.startswith(f"{y:04d}-{m:02d}"))
         months.append((t["month_names"][m - 1], total))
 
+    # считаем, в скольких репозиториях язык занимает заметную долю кода (от 5 %):
+    # так один большой репозиторий не перетягивает картину
     lang_size, lang_color = Counter(), {}
     for r in repos:
-        for e in r["languages"]["edges"]:
-            if e["node"]["name"] in EXCLUDE:
-                continue
-            lang_size[e["node"]["name"]] += e["size"]
-            lang_color[e["node"]["name"]] = e["node"]["color"] or c["muted"]
+        edges = [e for e in r["languages"]["edges"] if e["node"]["name"] not in EXCLUDE]
+        repo_total = sum(e["size"] for e in edges) or 1
+        for e in edges:
+            if e["size"] / repo_total >= 0.05:
+                lang_size[e["node"]["name"]] += 1
+                lang_color[e["node"]["name"]] = e["node"]["color"] or c["muted"]
     total_size = sum(lang_size.values()) or 1
     top = lang_size.most_common(6)
-    other = total_size - sum(s for _, s in top)
+    total_size = sum(n for _, n in top) or 1
+    other = 0
 
     W, H = 860, 430
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
@@ -214,7 +220,7 @@ def stats_svg(data, lang, theme):
                    f'<circle cx="{lx + 6}" cy="{y - 4}" r="5" fill="{lang_color[name]}"/>'
                    f'<text x="{lx + 18}" y="{y}" font-size="12" fill="{c["text"]}">{escape(name)}</text>'
                    f'<text x="{lx + lw}" y="{y}" font-size="12" fill="{c["muted"]}" text-anchor="end">'
-                   f'{size / total_size * 100:.1f}%</text></g>')
+                   f'{t["repo_count"](size)}</text></g>')
 
     out.append(f'<text x="32" y="{H - 22}" font-size="11" fill="{c["muted"]}">github.com/{base["login"]} · CLV-DIGITAL</text>')
     out.append("</svg>")

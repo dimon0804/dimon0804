@@ -60,30 +60,13 @@ hackathons on a regular basis.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img src="profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Contributions by month">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-en-dark.svg">
+  <img src="assets/stats-en-light.svg" width="100%" alt="GitHub stats">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="Stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dimon0804&theme=github-dark-blue&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=dimon0804&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" width="49%" alt="Contribution streak">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="profile-summary-card-output/github/1-repos-per-language.svg" width="32%" alt="Repos per language">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img src="profile-summary-card-output/github/2-most-commit-language.svg" width="32%" alt="Top languages by commits">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
-  <img src="profile-summary-card-output/github/4-productive-time.svg" width="32%" alt="Productive time">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/year-en-dark.svg">
+  <img src="assets/year-en-light.svg" width="100%" alt="A year in commits, 3D contribution calendar">
 </picture>
 
 <picture>
@@ -92,6 +75,18 @@ hackathons on a regular basis.
 </picture>
 
 </div>
+
+<sub>Stats include both public and private repositories and rebuild automatically every 6 hours.</sub>
+
+### What I'm working on
+
+<!--RECENT:START-->
+<sub>Public repositories I pushed to in the last 30 days</sub>
+
+- [**peremena**](https://github.com/dimon0804/peremena) · today<br><sub>«Перемена» — бот-помощник классного руководителя в MAX (Сферум): сборы согласий без ручного подсч…</sub>
+- [**Docrux**](https://github.com/dimon0804/Docrux) · 22 days ago<br><sub>Докрукс — ИИ, который видит документ насквозь. Читает фото студенческой справки или заявления, за…</sub>
+- <sub>plus 2 private repositories</sub>
+<!--RECENT:END-->
 
 ### Open-source projects
 

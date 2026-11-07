@@ -1,0 +1,32 @@
+name: Обновить статистику профиля
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/**]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Собрать карточки и блок «Сейчас в работе»
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: python3 scripts/build.py
+      - name: Закоммитить, если что-то изменилось
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md README.en.md
+          git diff --cached --quiet || (git commit -m "chore: обновить статистику профиля" && git push)

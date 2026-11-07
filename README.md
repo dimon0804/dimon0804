@@ -59,30 +59,13 @@ Telegram-ботов, интеграции и ИИ-автоматизацию д�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img src="profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Вклады по месяцам">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-ru-dark.svg">
+  <img src="assets/stats-ru-light.svg" width="100%" alt="Статистика GitHub">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="profile-summary-card-output/github/3-stats.svg" width="49%" alt="Статистика">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dimon0804&theme=github-dark-blue&hide_border=true&locale=ru">
-  <img src="https://streak-stats.demolab.com?user=dimon0804&theme=default&hide_border=true&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5&locale=ru" width="49%" alt="Серия вкладов">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="profile-summary-card-output/github/1-repos-per-language.svg" width="32%" alt="Репозитории по языкам">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <img src="profile-summary-card-output/github/2-most-commit-language.svg" width="32%" alt="Языки по коммитам">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg">
-  <img src="profile-summary-card-output/github/4-productive-time.svg" width="32%" alt="Время коммитов">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/year-ru-dark.svg">
+  <img src="assets/year-ru-light.svg" width="100%" alt="Год в коммитах, 3D-календарь вкладов">
 </picture>
 
 <picture>
@@ -91,6 +74,18 @@ Telegram-ботов, интеграции и ИИ-автоматизацию д�
 </picture>
 
 </div>
+
+<sub>Статистика учитывает и открытые, и закрытые репозитории и пересобирается сама каждые 6 часов.</sub>
+
+### Сейчас в работе
+
+<!--RECENT:START-->
+<sub>Открытые репозитории, в которые я пушил за последние 30 дней</sub>
+
+- [**peremena**](https://github.com/dimon0804/peremena) · сегодня<br><sub>«Перемена» — бот-помощник классного руководителя в MAX (Сферум): сборы согласий без ручного подсч…</sub>
+- [**Docrux**](https://github.com/dimon0804/Docrux) · 22 дн. назад<br><sub>Докрукс — ИИ, который видит документ насквозь. Читает фото студенческой справки или заявления, за…</sub>
+- <sub>и ещё 2 в закрытых репозиториях</sub>
+<!--RECENT:END-->
 
 ### Открытые проекты
 

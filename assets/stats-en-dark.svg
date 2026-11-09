@@ -11,10 +11,10 @@
 <rect x=".5" y=".5" width="859" height="429" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text x="32" y="44" font-size="18" font-weight="700" fill="#e6edf3">GitHub stats</text>
 <text x="828" y="44" font-size="12" fill="#8b949e" text-anchor="end">updated 09.11.2026</text>
-<g class="f" style="animation-delay:0.00s"><rect x="32.0" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="50.0" y="110" font-size="32" font-weight="700" fill="#e6edf3">67</text><text x="50.0" y="134" font-size="13" font-weight="600" fill="#e6edf3">repositories</text><text x="50.0" y="154" font-size="11" fill="#8b949e">30 public · 37 private</text></g>
-<g class="f" style="animation-delay:0.08s"><rect x="234.5" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="252.5" y="110" font-size="32" font-weight="700" fill="#e6edf3">767</text><text x="252.5" y="134" font-size="13" font-weight="600" fill="#e6edf3">contributions this year</text><text x="252.5" y="154" font-size="11" fill="#8b949e">commits, PRs, issues, reviews</text></g>
-<g class="f" style="animation-delay:0.16s"><rect x="437.0" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="455.0" y="110" font-size="32" font-weight="700" fill="#e6edf3">869</text><text x="455.0" y="134" font-size="13" font-weight="600" fill="#e6edf3">commits all time</text><text x="455.0" y="154" font-size="11" fill="#8b949e">since 2023</text></g>
-<g class="f" style="animation-delay:0.24s"><rect x="639.5" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="657.5" y="110" font-size="32" font-weight="700" fill="#7b74f2">34</text><text x="657.5" y="134" font-size="13" font-weight="600" fill="#e6edf3">active days this year</text><text x="657.5" y="154" font-size="11" fill="#8b949e">record: 122 in a single day</text></g>
+<g class="f" style="animation-delay:0.00s"><rect x="32.0" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="50.0" y="110" font-size="32" font-weight="700" fill="#e6edf3">68</text><text x="50.0" y="134" font-size="13" font-weight="600" fill="#e6edf3">repositories</text><text x="50.0" y="154" font-size="11" fill="#8b949e">31 public · 37 private</text></g>
+<g class="f" style="animation-delay:0.08s"><rect x="234.5" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="252.5" y="110" font-size="32" font-weight="700" fill="#e6edf3">772</text><text x="252.5" y="134" font-size="13" font-weight="600" fill="#e6edf3">contributions this year</text><text x="252.5" y="154" font-size="11" fill="#8b949e">commits, PRs, issues, reviews</text></g>
+<g class="f" style="animation-delay:0.16s"><rect x="437.0" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="455.0" y="110" font-size="32" font-weight="700" fill="#e6edf3">873</text><text x="455.0" y="134" font-size="13" font-weight="600" fill="#e6edf3">commits all time</text><text x="455.0" y="154" font-size="11" fill="#8b949e">since 2023</text></g>
+<g class="f" style="animation-delay:0.24s"><rect x="639.5" y="66" width="188.5" height="104" rx="10" fill="#161b22" stroke="#30363d"/><text x="657.5" y="110" font-size="32" font-weight="700" fill="#7b74f2">35</text><text x="657.5" y="134" font-size="13" font-weight="600" fill="#e6edf3">active days this year</text><text x="657.5" y="154" font-size="11" fill="#8b949e">record: 122 in a single day</text></g>
 <text x="32" y="208" font-size="13" font-weight="600" fill="#e6edf3">Contributions by month</text>
 <rect class="b" style="animation-delay:0.30s" x="37.0" y="357.0" width="29.2" height="3.0" rx="4" fill="#2a2a5a"/>
 <text class="f" style="animation-delay:0.80s" x="51.6" y="351.0" font-size="10" fill="#8b949e" text-anchor="middle">6</text>
@@ -47,23 +47,23 @@
 <rect class="b" style="animation-delay:0.70s" x="428.7" y="326.5" width="29.2" height="33.5" rx="4" fill="#2a2a5a"/>
 <text class="f" style="animation-delay:1.20s" x="443.2" y="320.5" font-size="10" fill="#8b949e" text-anchor="middle">96</text>
 <text x="443.2" y="378" font-size="11" fill="#8b949e" text-anchor="middle">Oct</text>
-<rect class="b" style="animation-delay:0.74s" x="467.8" y="323.4" width="29.2" height="36.6" rx="4" fill="#2a2a5a"/>
-<text class="f" style="animation-delay:1.24s" x="482.4" y="317.4" font-size="10" fill="#8b949e" text-anchor="middle">105</text>
+<rect class="b" style="animation-delay:0.74s" x="467.8" y="321.6" width="29.2" height="38.4" rx="4" fill="#2a2a5a"/>
+<text class="f" style="animation-delay:1.24s" x="482.4" y="315.6" font-size="10" fill="#8b949e" text-anchor="middle">110</text>
 <text x="482.4" y="378" font-size="11" fill="#8b949e" text-anchor="middle">Nov</text>
 <text x="540" y="208" font-size="13" font-weight="600" fill="#e6edf3">Languages: used in how many repos</text>
 <clipPath id="lc"><rect x="540" y="226" width="288" height="12" rx="6"/></clipPath><g clip-path="url(#lc)">
-<rect class="h" style="animation-delay:0.30s" x="540.0" y="226" width="151.0" height="12" fill="#3572A5"/>
-<rect class="h" style="animation-delay:0.36s" x="690.5" y="226" width="39.4" height="12" fill="#e34c26"/>
-<rect class="h" style="animation-delay:0.42s" x="729.4" y="226" width="31.6" height="12" fill="#f1e05a"/>
-<rect class="h" style="animation-delay:0.48s" x="760.5" y="226" width="29.0" height="12" fill="#663399"/>
-<rect class="h" style="animation-delay:0.54s" x="789.1" y="226" width="29.0" height="12" fill="#3178c6"/>
-<rect class="h" style="animation-delay:0.60s" x="817.6" y="226" width="10.9" height="12" fill="#89e051"/>
+<rect class="h" style="animation-delay:0.30s" x="540.0" y="226" width="147.0" height="12" fill="#3572A5"/>
+<rect class="h" style="animation-delay:0.36s" x="686.5" y="226" width="38.4" height="12" fill="#e34c26"/>
+<rect class="h" style="animation-delay:0.42s" x="724.4" y="226" width="33.3" height="12" fill="#f1e05a"/>
+<rect class="h" style="animation-delay:0.48s" x="757.3" y="226" width="30.8" height="12" fill="#663399"/>
+<rect class="h" style="animation-delay:0.54s" x="787.6" y="226" width="30.8" height="12" fill="#3178c6"/>
+<rect class="h" style="animation-delay:0.60s" x="817.9" y="226" width="10.6" height="12" fill="#89e051"/>
 </g>
 <g class="f" style="animation-delay:0.60s"><circle cx="546" cy="264" r="5" fill="#3572A5"/><text x="558" y="268" font-size="12" fill="#e6edf3">Python</text><text x="828" y="268" font-size="12" fill="#8b949e" text-anchor="end">58 repos</text></g>
 <g class="f" style="animation-delay:0.66s"><circle cx="546" cy="286" r="5" fill="#e34c26"/><text x="558" y="290" font-size="12" fill="#e6edf3">HTML</text><text x="828" y="290" font-size="12" fill="#8b949e" text-anchor="end">15 repos</text></g>
-<g class="f" style="animation-delay:0.72s"><circle cx="546" cy="308" r="5" fill="#f1e05a"/><text x="558" y="312" font-size="12" fill="#e6edf3">JavaScript</text><text x="828" y="312" font-size="12" fill="#8b949e" text-anchor="end">12 repos</text></g>
-<g class="f" style="animation-delay:0.78s"><circle cx="546" cy="330" r="5" fill="#663399"/><text x="558" y="334" font-size="12" fill="#e6edf3">CSS</text><text x="828" y="334" font-size="12" fill="#8b949e" text-anchor="end">11 repos</text></g>
-<g class="f" style="animation-delay:0.84s"><circle cx="546" cy="352" r="5" fill="#3178c6"/><text x="558" y="356" font-size="12" fill="#e6edf3">TypeScript</text><text x="828" y="356" font-size="12" fill="#8b949e" text-anchor="end">11 repos</text></g>
+<g class="f" style="animation-delay:0.72s"><circle cx="546" cy="308" r="5" fill="#f1e05a"/><text x="558" y="312" font-size="12" fill="#e6edf3">JavaScript</text><text x="828" y="312" font-size="12" fill="#8b949e" text-anchor="end">13 repos</text></g>
+<g class="f" style="animation-delay:0.78s"><circle cx="546" cy="330" r="5" fill="#663399"/><text x="558" y="334" font-size="12" fill="#e6edf3">CSS</text><text x="828" y="334" font-size="12" fill="#8b949e" text-anchor="end">12 repos</text></g>
+<g class="f" style="animation-delay:0.84s"><circle cx="546" cy="352" r="5" fill="#3178c6"/><text x="558" y="356" font-size="12" fill="#e6edf3">TypeScript</text><text x="828" y="356" font-size="12" fill="#8b949e" text-anchor="end">12 repos</text></g>
 <g class="f" style="animation-delay:0.90s"><circle cx="546" cy="374" r="5" fill="#89e051"/><text x="558" y="378" font-size="12" fill="#e6edf3">Shell</text><text x="828" y="378" font-size="12" fill="#8b949e" text-anchor="end">4 repos</text></g>
 <text x="32" y="408" font-size="11" fill="#8b949e">github.com/dimon0804 · CLV-DIGITAL</text>
 </svg>

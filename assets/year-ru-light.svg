@@ -365,6 +365,7 @@
 <polygon class="f" style="animation-delay:0.98s" fill="#eef2f7" points="726.6,251.0 733.8,253.1 728.6,257.1 721.4,255.0"/>
 <polygon class="f" style="animation-delay:1.01s" fill="#eef2f7" points="751.2,251.4 758.4,253.5 753.2,257.5 746.0,255.4"/>
 <polygon class="f" style="animation-delay:1.05s" fill="#eef2f7" points="775.8,251.8 783.0,253.9 777.8,257.9 770.6,255.8"/>
+<g class="r" style="animation-delay:1.09s"><polygon fill="#9ba3c6" points="793.6,256.4 802.6,259.1 802.6,245.3 793.6,242.6"/><polygon fill="#7b829d" points="809.2,254.1 802.6,259.1 802.6,245.3 809.2,240.3"/><polygon fill="#c7d2fe" points="800.2,237.6 809.2,240.3 802.6,245.3 793.6,242.6"/></g>
 <polygon class="f" style="animation-delay:1.00s" fill="#eef2f7" points="735.6,253.7 742.8,255.8 737.6,259.8 730.4,257.7"/>
 <polygon class="f" style="animation-delay:1.03s" fill="#eef2f7" points="760.2,254.1 767.4,256.2 762.2,260.2 755.0,258.1"/>
 <polygon class="f" style="animation-delay:1.07s" fill="#eef2f7" points="784.8,254.5 792.0,256.6 786.8,260.6 779.6,258.5"/>
@@ -375,7 +376,7 @@
 <polygon class="f" style="animation-delay:1.05s" fill="#eef2f7" points="762.6,261.8 769.8,263.9 764.6,267.9 757.4,265.8"/>
 <polygon class="f" style="animation-delay:1.07s" fill="#eef2f7" points="771.6,264.5 778.8,266.6 773.6,270.6 766.4,268.5"/>
 <text x="32" y="48" font-size="18" font-weight="700" fill="#0f172a">Год в коммитах</text>
-<g class="f" style="animation-delay:0.10s"><text x="32" y="104" font-size="26" font-weight="700" fill="#4f46e5">777</text><text x="32" y="124" font-size="12" fill="#64748b">вкладов за 12 месяцев</text></g>
+<g class="f" style="animation-delay:0.10s"><text x="32" y="104" font-size="26" font-weight="700" fill="#4f46e5">779</text><text x="32" y="124" font-size="12" fill="#64748b">вкладов за 12 месяцев</text></g>
 <g class="f" style="animation-delay:0.20s"><text x="32" y="166" font-size="26" font-weight="700" fill="#0f172a">122</text><text x="32" y="186" font-size="12" fill="#64748b">лучший день · 05.09.2026</text></g>
 <g class="f" style="animation-delay:0.30s"><text x="32" y="228" font-size="26" font-weight="700" fill="#0f172a">344</text><text x="32" y="248" font-size="12" fill="#64748b">самый жаркий месяц · сентябрь 2026</text></g>
 <g class="f" style="animation-delay:0.40s"><text x="32" y="290" font-size="26" font-weight="700" fill="#0f172a">230</text><text x="32" y="310" font-size="12" fill="#64748b">вкладов за лучшую неделю</text></g>

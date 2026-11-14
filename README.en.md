@@ -82,8 +82,8 @@ hackathons on a regular basis.
 <!--RECENT:START-->
 <sub>Public repositories I pushed to in the last 30 days</sub>
 
-- [**orbita**](https://github.com/dimon0804/orbita) · 2 days ago<br><sub>Orbita — десктопный клиент прокси и VPN для Windows на ядре sing-box: подписки, VLESS/Reality, Hy…</sub>
-- [**peremena**](https://github.com/dimon0804/peremena) · 6 days ago<br><sub>«Перемена» — бот-помощник классного руководителя в MAX (Сферум): сборы согласий без ручного подсч…</sub>
+- [**orbita**](https://github.com/dimon0804/orbita) · 3 days ago<br><sub>Orbita — десктопный клиент прокси и VPN для Windows на ядре sing-box: подписки, VLESS/Reality, Hy…</sub>
+- [**peremena**](https://github.com/dimon0804/peremena) · 7 days ago<br><sub>«Перемена» — бот-помощник классного руководителя в MAX (Сферум): сборы согласий без ручного подсч…</sub>
 - [**Docrux**](https://github.com/dimon0804/Docrux) · 29 days ago<br><sub>Докрукс — ИИ, который видит документ насквозь. Читает фото студенческой справки или заявления, за…</sub>
 - <sub>plus 2 private repositories</sub>
 <!--RECENT:END-->

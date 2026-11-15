@@ -99,14 +99,15 @@ hackathons on a regular basis.
 | [**HeatRoute**](https://github.com/dimon0804/HeatRoute) | Generates up to three options for connecting new buildings to an existing district heating network, with routes, pipe sizes and full cost. Leaders of Digital Transformation 2026 | Java, Spring Boot, React, MapLibre |
 | [**FinTeen**](https://github.com/dimon0804/devHACK6) | A web platform and Telegram bot that teach kids financial literacy through game-like scenarios | FastAPI, Next.js, microservices |
 
-### Commercial solutions
+### Commercial products from CLV-DIGITAL
 
-Closed source. Available under license or adapted to your infrastructure; demo and terms
-on request via [Telegram](https://t.me/dimon0804).
+| Product | Who it's for and what it does |
+|---|---|
+| **ChurnRadar** | For subscription businesses. Flags customers at risk of leaving, explains why, and estimates the revenue at risk so your team knows whom to contact first. |
+| [**Fenolog**](https://fenolog.clv-digital.tech) | For agribusinesses, banks, and crop insurers. Uses satellite imagery and weather data to monitor crops, flag periods of vegetation stress, and show likely causes. |
 
-| Solution | What it does | Stack |
-|---|---|---|
-| **ChurnRadar** | Customer churn risk analyzer. Scores every customer, explains the reasons and shows how much revenue is at risk. Includes a "who to call" list, what-if scenarios and alerts. 2nd place at the Rostov hackathon at DSTU, Aéza case | Python, microservices, NATS, Kubernetes, Prometheus |
+Both products are available as a pilot, a subscription, or a license for deployment on your own infrastructure.
+Contact me on [Telegram](https://t.me/dimon0804) or by [email](mailto:ceo.director@clv-digital.tech) for a demo or a quote.
 
 ### Achievements
 

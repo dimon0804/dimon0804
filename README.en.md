@@ -93,7 +93,6 @@ hackathons on a regular basis.
 | Project | What it does | Stack |
 |---|---|---|
 | [**Peremena**](https://github.com/dimon0804/peremena) | An assistant bot for school class teachers in the MAX messenger: collects parent consents without manual counting, answers routine questions from parents, keeps teaching materials at hand. [Demo](https://peremena.clv-digital.tech) | Python, FastAPI, Docker |
-| [**Fenolog**](https://github.com/dimon0804/FENOLOG) | Crop vegetation monitoring from satellite imagery: restores NDVI time series, finds periods of vegetation stress and explains the likely cause. [Live](https://fenolog.clv-digital.tech) | Python, remote sensing, ML |
 | [**Docrux**](https://github.com/dimon0804/Docrux) | Reads a photo of a student certificate or application, fills in the field card and checks it against the college regulations, citing the exact clause. | FastAPI, React, Tesseract |
 | [**Vodopol**](https://github.com/dimon0804/VODOPOL) | Estimates flood damage from a single Sentinel-1 radar image and picks which extra imagery to order within a given budget. | Python, remote sensing |
 | [**HeatRoute**](https://github.com/dimon0804/HeatRoute) | Generates up to three options for connecting new buildings to an existing district heating network, with routes, pipe sizes and full cost. Leaders of Digital Transformation 2026 | Java, Spring Boot, React, MapLibre |
@@ -104,7 +103,7 @@ hackathons on a regular basis.
 | Product | Who it's for and what it does |
 |---|---|
 | **ChurnRadar** | For subscription businesses. Flags customers at risk of leaving, explains why, and estimates the revenue at risk so your team knows whom to contact first. |
-| [**Fenolog**](https://fenolog.clv-digital.tech) | For agribusinesses, banks, and crop insurers. Uses satellite imagery and weather data to monitor crops, flag periods of vegetation stress, and show likely causes. |
+| **Fenolog** | For agribusinesses, banks, and crop insurers. Uses satellite imagery and weather data to monitor crops, flag periods of vegetation stress, and show likely causes. |
 
 Both products are available as a pilot, a subscription, or a license for deployment on your own infrastructure.
 Contact me on [Telegram](https://t.me/dimon0804) or by [email](mailto:ceo.director@clv-digital.tech) for a demo or a quote.

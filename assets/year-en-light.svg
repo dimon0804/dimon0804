@@ -377,6 +377,7 @@
 <polygon class="f" style="animation-delay:1.05s" fill="#eef2f7" points="762.6,261.8 769.8,263.9 764.6,267.9 757.4,265.8"/>
 <polygon class="f" style="animation-delay:1.09s" fill="#eef2f7" points="787.2,262.2 794.4,264.3 789.2,268.3 782.0,266.2"/>
 <g class="r" style="animation-delay:1.07s"><polygon fill="#9ba3c6" points="764.8,268.7 773.8,271.4 773.8,257.6 764.8,254.9"/><polygon fill="#7b829d" points="780.4,266.4 773.8,271.4 773.8,257.6 780.4,252.6"/><polygon fill="#c7d2fe" points="771.4,249.9 780.4,252.6 773.8,257.6 764.8,254.9"/></g>
+<polygon class="f" style="animation-delay:1.09s" fill="#eef2f7" points="780.6,267.2 787.8,269.3 782.6,273.3 775.4,271.2"/>
 <text x="32" y="48" font-size="18" font-weight="700" fill="#0f172a">A year in commits</text>
 <g class="f" style="animation-delay:0.10s"><text x="32" y="104" font-size="26" font-weight="700" fill="#4f46e5">779</text><text x="32" y="124" font-size="12" fill="#64748b">contributions in 12 months</text></g>
 <g class="f" style="animation-delay:0.20s"><text x="32" y="166" font-size="26" font-weight="700" fill="#0f172a">122</text><text x="32" y="186" font-size="12" fill="#64748b">best day · 05.09.2026</text></g>

@@ -81,8 +81,8 @@ Telegram-ботов, интеграции и ИИ-автоматизацию д�
 <!--RECENT:START-->
 <sub>Открытые репозитории, в которые я пушил за последние 30 дней</sub>
 
-- [**orbita**](https://github.com/dimon0804/orbita) · 12 дн. назад<br><sub>Orbita — десктопный клиент прокси и VPN для Windows на ядре sing-box: подписки, VLESS/Reality, Hy…</sub>
-- [**peremena**](https://github.com/dimon0804/peremena) · 16 дн. назад<br><sub>«Перемена» — бот-помощник классного руководителя в MAX (Сферум): сборы согласий без ручного подсч…</sub>
+- [**orbita**](https://github.com/dimon0804/orbita) · 13 дн. назад<br><sub>Orbita — десктопный клиент прокси и VPN для Windows на ядре sing-box: подписки, VLESS/Reality, Hy…</sub>
+- [**peremena**](https://github.com/dimon0804/peremena) · 17 дн. назад<br><sub>«Перемена» — бот-помощник классного руководителя в MAX (Сферум): сборы согласий без ручного подсч…</sub>
 - <sub>и ещё 2 в закрытых репозиториях</sub>
 <!--RECENT:END-->
 
